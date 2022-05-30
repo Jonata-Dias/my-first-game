@@ -1,2 +1,2 @@
-# my-fist-game
-my fist game done with javaScript
+# my-first-game
+my first game done with javaScript
